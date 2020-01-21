@@ -1,8 +1,9 @@
 
+
 # TaniBox-Backend
 [![Build Status](https://secure.travis-ci.org/flatiron/restful.png)](http://travis-ci.org/flatiron/restful)
 
-To install expressjs-restful-hiringChannelApp, follow these steps:
+To install TaniBox-Backend, follow these steps:
 ## Installing
 clone from Github:
 ```
